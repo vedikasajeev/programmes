@@ -1,0 +1,28 @@
+ print("Naman Shivaya")
+  Naman Shivaya
+
+   
+a=4
+b=6
+s=a+b
+print("sum of a and b=",s)
+  sum of a and b= 10
+   
+
+  name="vedika"
+print("Namah Shivaya",name)
+  Namah Shivaya vedika
+
+   
+l=6
+b=4
+area=l*b
+print("area of rectangle=",area)
+   area of rectangle= 24
+
+c=float(input("enter temperature in celsius"))
+f=(c*9/5)+32
+print("temperature in fahrenhiet=",f)
+   enter temperature in celsius95.6
+temperature in fahrenhiet= 204.07999999999998
+  
